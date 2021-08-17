@@ -30,7 +30,7 @@
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": "sdsdasdsdasd ssa dadas dasd",
-        "isNative": false,
+        "isNative": true,
 		"background": "#00FF00"
       },
       {
